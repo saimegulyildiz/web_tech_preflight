@@ -4,7 +4,7 @@ Bu proje, üniversite kampüsündeki etkinliklerin listelenmesi, detaylarının 
 
 ## 🚀 Canlı Yayın (Vercel)
 Uygulamanın canlı sürümüne aşağıdaki bağlantıdan ulaşabilirsiniz:
-👉 **[Canlı Proje Linki]web-tech-preflight-6uy1.vercel.app**
+👉 **web-tech-preflight-6uy1.vercel.app**
 
 ---
 
